@@ -1,0 +1,11 @@
+#commits
+[JIRA-ID #description]
+PCOM-1 initial commit
+
+#branch
+[JIRA-ID-jiraTitle]
+PCOM-1-initial-commit
+
+#pull request
+[JIRA-ID - jiraTitle - #optionalDescription]
+PCOM-1 - Initial Commit - this is the initial commit
