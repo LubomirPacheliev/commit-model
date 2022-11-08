@@ -1,11 +1,11 @@
 #commits
 [JIRA-ID #description]
-PCOM-1 initial commit
+PCON-1 initial commit
 
 #branches
 [JIRA-ID-jiraTitle]
-PCOM-1-initial-commit
+PCON-1-initial-commit
 
 #pull requests
 [JIRA-ID - jiraTitle - #optionalDescription]
-PCOM-1 - Initial Commit - this is the initial commit
+PCON-1 - Initial Commit - this is the initial commit
